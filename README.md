@@ -2,6 +2,8 @@
 
 ## Core Game Mechanics
 
-### Graph Related
+### Graph Related Stuff
 
 1. Planarity
+
+### Platforming Stuff
