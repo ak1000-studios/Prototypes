@@ -1,3 +1,5 @@
-# Juego 🔥
+# Jueguillo 🔥 (Coming Soon)
 
-## Coming Soon
+## Core Game Mechanics
+
+1. Planarity
