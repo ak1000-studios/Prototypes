@@ -2,7 +2,7 @@
 
 ## Core Game Mechanics
 
-### Graph Related Stuff
+### Graph Theory Related Stuff
 
 1. Planarity
 
