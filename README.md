@@ -1,4 +1,4 @@
-# Jueguillo 🔥 (Coming Soon)
+# Jueguillo 🔥
 
 ## Core Game Mechanics
 
