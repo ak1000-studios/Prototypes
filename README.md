@@ -8,7 +8,7 @@ All prototypes are implemented using [Processing](https://processing.org/)
 
 * [Puzzle Generation Algorithms](#puzzle)
 
-    * Original Algorithm](#original)
+    * [Original Algorithm](#original)
 
 * [Intersecton Detection Alogrithms](#interesction)
     
