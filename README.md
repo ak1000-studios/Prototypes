@@ -7,10 +7,12 @@ All prototypes are implemented using [Processing](https://processing.org/)
 ## Table of Contents
 
 * [Puzzle Generation Algorithms](#puzzle)
-    *[Original Algorithm](#original)
+
+    * Original Algorithm](#original)
 
 * [Intersecton Detection Alogrithms](#interesction)
-    *
+    
+    * 
 
 
 # Puzzle Generation <a name="puzzle"></a>
