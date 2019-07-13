@@ -1,3 +1,5 @@
+# Puzzle Generator
+
 This is an implementation of the original algorithm by John Tantalo
 
 For more information refer to the [wikipedia article](https://en.wikipedia.org/wiki/Planarity#Puzzle_generation_algorithm)
